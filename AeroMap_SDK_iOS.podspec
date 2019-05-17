@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
     s.name         = "AeroMap_SDK_iOS"
-    s.version      = "0.0.7"
+    s.version      = "0.0.8"
     s.summary      = "A short description of AeroMapSDK_iOS."
 
     s.description  = <<-DESC
